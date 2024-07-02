@@ -18,7 +18,5 @@
     <img align="center" alt="Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 </div><br/>
 
-Como QA, estou continuamente expandindo meu conhecimento, explorando ferramentas para criar testes automatizados e implementando métodos de boas práticas, visando assegurar a qualidade de software de forma eficiente e eficaz.
-
 ## Contato
 eduardobuenosilva@hotmail.com
