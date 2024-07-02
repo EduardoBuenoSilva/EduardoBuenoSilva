@@ -2,6 +2,7 @@
 ### Olá! Eu sou o Eduardo Bueno ✌️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-bueno-4273241b0/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardobuenosilva@hotmail.com)
 
 ![Eduardo Bueno GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardobuenosilva&show_icons=true&theme=radical)
 
