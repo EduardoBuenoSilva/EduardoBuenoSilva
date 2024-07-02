@@ -18,5 +18,3 @@
     <img align="center" alt="Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 </div><br/>
 
-## Contato
-eduardobuenosilva@hotmail.com
