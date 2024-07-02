@@ -20,3 +20,5 @@
 
 Como QA, estou continuamente expandindo meu conhecimento, explorando ferramentas para criar testes automatizados e implementando métodos de boas práticas, visando assegurar a qualidade de software de forma eficiente e eficaz.
 
+## Contato
+eduardobuenosilva@hotmail.com
