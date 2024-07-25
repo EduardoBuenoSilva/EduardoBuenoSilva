@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-bueno-4273241b0/)
 [![Gmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eduardobuenosilva@hotmail.com)
 
-![Eduardo Bueno GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardobuenosilva&show_icons=true&theme=radical)
+![Eduardo Bueno GitHub statu](https://github-readme-stats.vercel.app/api?username=eduardobuenosilva&show_icons=true&theme=radical)
 
 ### Tecnologias que uso no dia a dia
 
