@@ -6,8 +6,6 @@
 
 ![Eduardo Bueno GitHub status](https://github-readme-stats.vercel.app/api?username=eduardobuenosilva&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBuenoSilva&size_weight=0&count_weight=1)
-
 ### Tecnologias que uso no dia a dia
 
 <div style="display: inline_block"r><br/>
